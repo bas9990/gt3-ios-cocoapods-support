@@ -1,3 +1,5 @@
+// swift-tools-version:5.6.0
+
 let package = Package(
     name: "GT3Captcha",
     products: [
