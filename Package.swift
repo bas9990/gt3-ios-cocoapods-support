@@ -11,6 +11,5 @@ let package = Package(
             name: "GT3Captcha",
             path: "Sources"
         )
-    ],
-    swiftLanguageVersions: [.v5]
+    ]
 )
