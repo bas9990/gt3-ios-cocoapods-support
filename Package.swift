@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .target(
             name: "GT3Captcha",
-            path: "Sources"
+            path: "\"
         )
     ]
 )
